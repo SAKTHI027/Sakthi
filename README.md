@@ -1,4 +1,4 @@
- M SAKTHI Ramasamy
+ M SAKTHI RAMASAMY
 
  
 I'm an aspiring software engineer
