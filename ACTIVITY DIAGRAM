@@ -1,0 +1,39 @@
+START
+               |
+               v
+      Create GitHub Account
+               |
+               v
+       Create New Repository
+               |
+               v
+      Create Project Files
+               |
+               v
+         Save Changes
+               |
+               v
+            Git Add
+               |
+               v
+           Git Commit
+               |
+               v
+            Git Push
+               |
+               v
+      Repository Updated
+               |
+               v
+      Continue Development?
+          /            \
+        Yes             No
+         |               |
+         v               v
+    Modify Files        END
+         |
+         +------> Git Add
+                   |
+                Git Commit
+                   |
+                Git Push
